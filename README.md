@@ -14,4 +14,4 @@ If it works, it'll tell you.
 1. Open powershell (or cmd) and `CD` to the directory where main.py is located
 1. Type in `python main.py` to start the script
 1. Enter a proxy if needed, if not, just press enter without writing anything.
-1. Done! The program will automatically try different codes, and put the working ones inside working.txt
+1. Done! The program will automatically try different codes, and put the working ones inside working.txt and password codes inside passwords.txt
